@@ -12,6 +12,7 @@ For the years 2017-2021, the data can be found on the page https://opendata.mete
 - for product: Automatic Weather Stations - observations
 - for layer: AWS_1day
 - for format: CSV
+
 The file is also present in this repository: belgian_climate_2017_2021.csv
 
 What we can conclude from the obtained figure (TempHistoryBelgium.png) is that the temperature is higher for the latest period, especially the mean daily minimum temperature at the sea (Brugge).
