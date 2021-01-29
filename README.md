@@ -13,6 +13,6 @@ For the years 2017-2021, the data can be found on the page https://opendata.mete
 - for layer: AWS_1day
 - for format: CSV
 
-The file is also present in this repository: belgian_climate_2017_2021.csv
+The file is also present in this repository: belgian_climate_2017_2021.csv. In this file, code 6418 is used for Brugge (Zeebrugge to be precise) and code 6472 is used for Marche-en-Famennes.
 
 What we can conclude from the obtained figure (TempHistoryBelgium.png) is that the temperature is higher for the latest period, especially the mean daily minimum temperature at the sea (Brugge).
