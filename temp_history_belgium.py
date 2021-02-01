@@ -59,8 +59,8 @@ plt.plot(months, df_brugge_recent["min temp"], color=col1)
 plt.plot(months, df_marche_recent["min temp"], color=col2)
 plt.title("Mean Daily Min Temperature (°C)", fontweight="bold")
 plt.subplots_adjust(hspace=0.45)
-txt = ("The graphs show the mean daily mean/max/min temperatures in Belgium (in Brugge and Marche-en-Famennes)"
-       " during the two periods of 1981-2010 and 2017-2021")
+txt = ("The graphs show the mean daily mean/max/min temperatures in Belgium (in Brugge, at the sea, and"
+       " in Marche-en-Famennes, inland) during the two periods of 1981-2010 and 2017-2021")
 plt.figtext(0.5, 0.01, txt, wrap=True, horizontalalignment='center', fontsize=9)
 plt.suptitle("Temperature evolution in Belgium".upper(), fontweight="bold")
-plt.savefig("TempHistoryBelgium.png", dpi=150)
+plt.savefig("TempHistoryBelgium2.png", dpi=150)
