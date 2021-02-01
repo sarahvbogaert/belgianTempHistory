@@ -63,4 +63,4 @@ txt = ("The graphs show the mean daily mean/max/min temperatures in Belgium (in 
        " in Marche-en-Famennes, inland) during the two periods of 1981-2010 and 2017-2021")
 plt.figtext(0.5, 0.01, txt, wrap=True, horizontalalignment='center', fontsize=9)
 plt.suptitle("Temperature evolution in Belgium".upper(), fontweight="bold")
-plt.savefig("TempHistoryBelgium2.png", dpi=150)
+plt.savefig("TempHistoryBelgium.png", dpi=150)
