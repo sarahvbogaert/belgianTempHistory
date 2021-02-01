@@ -1,5 +1,5 @@
 # belgianTempHistory
-Belgian Temperature Comparison between the years 1981-2010 and 2017-2021. Data science project for answering the question : "Has the temperature in Belgium increased when comparing the two periods 1981-2010 and 2017-2021?". The data consists of average temperatures and daily max and min temperatures in Brugge (province of Occidental Flanders, at the sea) and Marche-en-Famennes (province of Luxemburg). The figure TempHistoryBelgium.png was drawn to answer the forementioned question.
+Belgian Temperature Comparison between the years 1981-2010 and 2017-2021. Data science project for answering the question : "Has the temperature in Belgium increased when comparing the two periods 1981-2010 and 2017-2021?". The data consists of average temperatures and daily max and min temperatures in Brugge (province of Occidental Flanders, at the sea) and Marche-en-Famennes (province of Luxemburg). The figure TempHistoryBelgium.png was drawn by python script temp_history_belgium.py to answer the forementioned question.
 
 The data comes from the website www.meteo.be of the IRM (Institut Royal Météorologique).
 
