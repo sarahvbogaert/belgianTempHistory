@@ -15,4 +15,4 @@ For the years 2017-2021, the data can be found on the page https://opendata.mete
 
 The file is also present in this repository: belgian_climate_2017_2021.csv. In this file, code 6418 is used for Brugge (Zeebrugge to be precise) and code 6472 is used for Marche-en-Famennes.
 
-What we can conclude from the obtained figure (TempHistoryBelgium.png) is that the temperature is higher for the latest period, especially the mean daily minimum temperature at the sea (Brugge).
+What we can conclude from the obtained figure is that the temperature in Belgium is slightly higher during period 2017-2021 compared to period 1981-2010. The temperature increase is more significant (around 4°C) at the sea (Brugge) when considering the mean daily minimum temperature. However, the mean daily maximum temperature has slightly decreased at the sea during the summer when comparing the two periods. In Marche-en-Famennes, which is more inland, both daily min and max temperatures, as well as the mean temperature, have increased during the time considered. One should perform statistical tests to conclude if this temperature increase is statistically significant.
